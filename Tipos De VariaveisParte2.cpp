@@ -41,6 +41,7 @@ int main()
 	//definindo matrizes
 	int matriz[TAM][TAM];
 	
+	//capturando valores da matriz
 	for(i = 0; i <3 ; i++){
 		for(j = 0; j < 3 ; j++){
 			printf("\nDigite o valor da linha %d, coluna %d :",i,j);
