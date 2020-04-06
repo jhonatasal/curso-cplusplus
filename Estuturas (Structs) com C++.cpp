@@ -22,7 +22,7 @@ int main()
 	primeiraFruta-> nome = "Laranja";
 
 	//imprimindo valores
-	cout << "Primeira fruta : " << primeiraFruta->cor;
+	cout << "Primeira fruta : " << primeiraFruta->cor);
 
 	system("pause");
 	return 0;
